@@ -1,2 +1,3 @@
 # gerador_relatorio_pdf
-# # Relatorio para exibir informações de um cliente em um arquivo PDF.
+
+### Relatorio para gerar um arquivo em PDF com todas as informações passadas de um determinado Cliente.
