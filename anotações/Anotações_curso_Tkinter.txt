@@ -1,0 +1,1 @@
+O Tkinter vai formar uma tela que é de certo modo antiga, mas para os que estão estudando Python, ela é a primeira forma que eles estudam para começar a criar interfaces.
